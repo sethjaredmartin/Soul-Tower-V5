@@ -527,4 +527,4 @@ if __name__ == "__main__":
     print(f"[Soul Tower Analytics] Database: {DB_PATH}")
     print(f"[Soul Tower Analytics] Listening on http://localhost:5050")
     print(f"[Soul Tower Analytics] TTS should POST to http://localhost:5050/api/events")
-    app.run(host="0.0.0.0", port=6060, debug=True)
+    app.run(host="0.0.0.0", port=5050, debug=True)

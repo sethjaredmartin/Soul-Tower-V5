@@ -69,3 +69,5 @@ CLAUDE.md
 README.md
 backend/soul_tower_analytics.db
 setup.sh
+
+.tts/
