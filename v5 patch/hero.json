@@ -1,0 +1,10 @@
+[
+  {"Nickname": "Akiem", "Name": "akiem", "Alignment": "Blessed", "Origin": "Imanis", "Health": 5, "Might": 4, "Speed": 6, "Luck": 3, "Arcana": 4, "Passive Effect": "Whenever You Order #, Foe Set Agony Order #", "Flavor Text": "The first to rise, the last to fall."},
+  {"Nickname": "Dodan", "Name": "dodan", "Alignment": "Blessed", "Origin": "Vorspar", "Health": 4, "Might": 3, "Speed": 5, "Luck": 4, "Arcana": 6, "Passive Effect": "Your Cards with Equip cost -1. Whenever You Slot a Card, Deal 1d4 Hero", "Flavor Text": "The forge knows no master but fire."},
+  {"Nickname": "Vyra", "Name": "vyra", "Alignment": "CursedHero", "Origin": "Dethrun", "Health": 6, "Might": 5, "Speed": 3, "Luck": 5, "Arcana": 3, "Passive Effect": "Whenever You Pray #, Drain Prayed", "Flavor Text": "Mercy is just another poison."},
+  {"Nickname": "Kael", "Name": "kael", "Alignment": "CursedHero", "Origin": "Imanis", "Health": 5, "Might": 6, "Speed": 7, "Luck": 2, "Arcana": 4, "Passive Effect": "Your Spells Deal +2. Whenever Crush #, Set Agony Crush #", "Flavor Text": "Speed is a kind of honesty."},
+  {"Nickname": "Belfius", "Name": "belfius", "Alignment": "Blessed", "Origin": "Vorspar", "Health": 3, "Might": 4, "Speed": 4, "Luck": 6, "Arcana": 8, "Passive Effect": "You may use Sorcery to pay for Entropy costs", "Flavor Text": "Trade is the oldest magic."},
+  {"Nickname": "Thala", "Name": "thala", "Alignment": "Blessed", "Origin": "Imanis", "Health": 7, "Might": 3, "Speed": 3, "Luck": 4, "Arcana": 4, "Passive Effect": "Whenever You Pray #, Your Hero Set Toughness Pray #", "Flavor Text": "Stone remembers every prayer."},
+  {"Nickname": "Rook", "Name": "rook", "Alignment": "CursedHero", "Origin": "Dethrun", "Health": 4, "Might": 7, "Speed": 5, "Luck": 3, "Arcana": 2, "Passive Effect": "Whenever Your Attack would be Denied, Deal 1 Hero", "Flavor Text": "The blade remembers, even when the hand forgets."},
+  {"Nickname": "Mira", "Name": "mira", "Alignment": "Blessed", "Origin": "Vorspar", "Health": 4, "Might": 2, "Speed": 6, "Luck": 7, "Arcana": 5, "Passive Effect": "Whenever You Fortune, Fortune +1", "Flavor Text": "Luck is preparation you cannot remember doing."}
+]

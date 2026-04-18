@@ -1,0 +1,8 @@
+[
+  {"Name": "Famine", "Effect": "All Summoners Obliterate 3 Hand", "Curse Source": "Starvation", "Curse Effect": "Weaken 1 Health all Heroes"},
+  {"Name": "The Rending", "Effect": "All Champions Set Agony 3", "Curse Source": "Carnage", "Curse Effect": "Deal 5 all Heroes"},
+  {"Name": "Silent Sky", "Effect": "All Summoners Set Silence 1", "Curse Source": "Quiet", "Curse Effect": "Your next Spell costs +2"},
+  {"Name": "The Burning", "Effect": "All Champions Set Burn 3", "Curse Source": "Ash", "Curse Effect": "Your Burn has +1"},
+  {"Name": "Doomcall", "Effect": "Your Hero Set Doom 1", "Curse Source": "Fate", "Curse Effect": "Enchant: Standby: Fortune 1"},
+  {"Name": "Mana Drought", "Effect": "All Summoners Drain All", "Curse Source": "Thirst", "Curse Effect": "Your Mana gain is -1 next turn"}
+]

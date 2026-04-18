@@ -1,0 +1,18 @@
+[
+  {"Name": "Wrath of Akiem", "Hero": "Akiem", "Type": "Brutal", "Subtype": "Normal", "Cost": "4", "Effect": "Deal Power Foe. Bolster: Foe Set Agony 2", "Cursed": false},
+  {"Name": "Akiem's Resolve", "Hero": "Akiem", "Type": "Ritual", "Subtype": "Normal", "Cost": "3", "Effect": "Your Hero Set Toughness 3. Enchant: Wake Up: Your Hero Set Toughness 1", "Cursed": false},
+  {"Name": "Devil's Forge", "Hero": "Dodan", "Type": "Spell", "Subtype": "Normal", "Cost": "3", "Effect": "Equip: Your Cards with Equip cost -1. Whenever You Slot a Card, Deal 1d4 Hero", "Cursed": false},
+  {"Name": "Dodan's Anvil", "Hero": "Dodan", "Type": "Ritual", "Subtype": "Normal", "Cost": "4", "Effect": "Enchant: Wake Up: Fortune 2 Brutal", "Cursed": false},
+  {"Name": "Vyra's Embrace", "Hero": "Vyra", "Type": "Ritual", "Subtype": "Entropy", "Cost": "3", "Effect": "Heal 4 Hero. Drain 3 Foe", "Cursed": true},
+  {"Name": "Blood Communion", "Hero": "Vyra", "Type": "Spell", "Subtype": "Normal", "Cost": "5", "Effect": "Blood Price 3: Deal 8 Hero. Rally: Fortune 4", "Cursed": true},
+  {"Name": "Kael's Fury", "Hero": "Kael", "Type": "Brutal", "Subtype": "Normal", "Cost": "2", "Effect": "Deal 4 Foe. Threshold 3: Foe Set Agony 1", "Cursed": false},
+  {"Name": "Void Strike", "Hero": "Kael", "Type": "Spell", "Subtype": "Instant", "Cost": "2d4", "Effect": "Deal 5 Hero. Foe Set Burn 2", "Cursed": false},
+  {"Name": "Bargain of Belfius", "Hero": "Belfius", "Type": "Ritual", "Subtype": "Entropy", "Cost": "3", "Effect": "You Gain 3 Mana. Draw 2", "Cursed": false},
+  {"Name": "Belfius Exchange", "Hero": "Belfius", "Type": "Spell", "Subtype": "Normal", "Cost": "4", "Effect": "Harness 3: Obliterate 1 Hand", "Cursed": false},
+  {"Name": "Thala's Shield", "Hero": "Thala", "Type": "Ritual", "Subtype": "Normal", "Cost": "3", "Effect": "All Allies Hero Set Toughness 2", "Cursed": false},
+  {"Name": "Mountain's Patience", "Hero": "Thala", "Type": "Spell", "Subtype": "Normal", "Cost": "5", "Effect": "Enchant: Wake Up: Heal 2 Your Hero. Enchant: Standby: Fortune 1", "Cursed": false},
+  {"Name": "Rook's Gambit", "Hero": "Rook", "Type": "Brutal", "Subtype": "Reaction", "Cost": "2", "Effect": "Command Your Hero. Bolster: Fortune 2 Brutal", "Cursed": false},
+  {"Name": "Siege Breaker", "Hero": "Rook", "Type": "Brutal", "Subtype": "Normal", "Cost": "6", "Effect": "Deal 10 Foe. Ferocity 7: Foe Set Doom 1", "Cursed": false},
+  {"Name": "Mira's Intuition", "Hero": "Mira", "Type": "Spell", "Subtype": "Instant", "Cost": "1", "Effect": "Fortune 3. Profit: Draw 1", "Cursed": false},
+  {"Name": "Threadseer's Gift", "Hero": "Mira", "Type": "Ritual", "Subtype": "Normal", "Cost": "2", "Effect": "Fortune 4. Heal Fortuned Hero", "Cursed": false}
+]

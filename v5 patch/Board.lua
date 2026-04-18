@@ -800,8 +800,8 @@ function _getLegendary(hero_obj)
         return
     end
 
-    local card1_name = hero_data.Card1
-    local card2_name = hero_data.Card2
+    local card1_name = hero_data[6]
+    local card2_name = hero_data[7]
 
     printToAll(string.format("[%s] Fetching Legendary: %s & %s",
         state.game_color, card1_name, card2_name), {0.8, 0.8, 0.4})

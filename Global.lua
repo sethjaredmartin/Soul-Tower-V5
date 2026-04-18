@@ -19,11 +19,10 @@
 -- If using TTS Tools bundler, these are real require() calls.
 -- If pasting into TTS editor directly, define modules inline above.
 
-local ZoneHandler  = require("ZoneHandler")
-local CommonCards  = require("CommonCards")
--- local WakeUp       = require("WakeUp")      -- future module
--- local Standby      = require("Standby")     -- future module
--- local Attack       = require("Attack")      -- future module
+local ZoneHandler = require("ZoneHandler")
+-- local WakeUp    = require("WakeUp")      -- future module
+-- local Standby   = require("Standby")     -- future module
+-- local Attack    = require("Attack")       -- future module
 
 
 -- ── TTS Lifecycle ──────────────────────────────────────────────────────────────
